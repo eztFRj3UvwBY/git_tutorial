@@ -5,4 +5,5 @@ hoge1
 hoge2
 git diff
 git commit --amend
+git merge
 
